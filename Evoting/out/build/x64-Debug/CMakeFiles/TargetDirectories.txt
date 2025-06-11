@@ -1,0 +1,3 @@
+C:/Users/User/Downloads/CyberElect-main (1)/CyberElect-main/out/build/x64-Debug/CMakeFiles/OnlineVotingSystem.dir
+C:/Users/User/Downloads/CyberElect-main (1)/CyberElect-main/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Downloads/CyberElect-main (1)/CyberElect-main/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

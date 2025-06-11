@@ -1,0 +1,10 @@
+# ninja log v6
+227	1023	7681584670313221	CMakeFiles/OnlineVotingSystem.dir/bin/lib/func/User.cpp.obj	64d3bbc2d5887083
+98	1500	7681584669027741	CMakeFiles/OnlineVotingSystem.dir/bin/lib/func/ElectionManager.cpp.obj	86cac816030cade1
+35	1505	7681584668402233	CMakeFiles/OnlineVotingSystem.dir/bin/lib/func/Candidate.cpp.obj	3a67331250c2e20c
+137	1539	7681584669427615	CMakeFiles/OnlineVotingSystem.dir/bin/lib/func/LocalElection.cpp.obj	abfef1db4e236518
+255	1545	7681584670598391	CMakeFiles/OnlineVotingSystem.dir/bin/lib/func/Voter.cpp.obj	c713a3c2f4f23c34
+11	1548	7681584668152299	CMakeFiles/OnlineVotingSystem.dir/bin/lib/func/Administrator.cpp.obj	d65a762eaceb2259
+315	1552	7681584671198504	CMakeFiles/OnlineVotingSystem.dir/main.cpp.obj	45125ab9280dd573
+162	1555	7681584669673212	CMakeFiles/OnlineVotingSystem.dir/bin/lib/func/NationalElection.cpp.obj	3d91818ceb683421
+196	1673	7681584670003234	CMakeFiles/OnlineVotingSystem.dir/bin/lib/func/RegionalElection.cpp.obj	4e9ae17b9c3025b0
